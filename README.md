@@ -1,9 +1,7 @@
 
-# ED-COMMUNICATION-EMAIL-SERVICE-PYTHON
+EMAIL-SERVICE-PYTHON
 
 
-[![N|Solid](https://echodigital.org/img/echo-logo.png)](https://echodigital.org/)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](echoindia.in)
 
 ED email service for sending email in bulk or raw html email using amazon SQS and celery.
 Features of service are below
@@ -53,4 +51,3 @@ Currently No Plugin available to link
 
 ### Author :heavy_check_mark:
 [Prashant Goyal]
-Python Developer, ECHO India
