@@ -16,9 +16,9 @@ there some repo which are listed below
 ed-sqs-pull-email-service-python
 ed-sqs-pull-sms-service-python
 ed-sqs-pull-whatsapp-service-python
-echo-india/ed-communication-sms-service-python
-echo-india/ed-communication-whatsapp-service-python
-which available on https://github.com/prashantgoyal494
+ed-communication-sms-service-python
+ed-communication-whatsapp-service-python
+
 ### Tech Used
 
 Email Service runs on python version 3+:
