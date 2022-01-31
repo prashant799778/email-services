@@ -52,5 +52,5 @@ Yay! app started successfully :smiley:
 Currently No Plugin available to link
 
 ### Author :heavy_check_mark:
-[Sonu Pal](https://github.com/sonupal129/)
+[Prashant Goyal]
 Python Developer, ECHO India
