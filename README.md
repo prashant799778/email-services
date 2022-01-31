@@ -11,6 +11,14 @@ Features of service are below
   - Fetch list of available email templates from internal as well as external databases
   - Unsubcribe user
 
+there some repo which are listed below
+
+https://github.com/echo-india/ed-sqs-pull-email-service-python
+https://github.com/echo-india/ed-sqs-pull-sms-service-python
+https://github.com/echo-india/ed-sqs-pull-whatsapp-service-python
+https://github.com/echo-india/ed-communication-sms-service-python
+https://github.com/echo-india/ed-communication-whatsapp-service-python
+
 ### Tech Used
 
 Email Service runs on python version 3+:
